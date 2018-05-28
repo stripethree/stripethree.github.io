@@ -1,8 +1,14 @@
 # Experience
 
-Condé Nast / Lead Engineer, Partnerships Team
+Condé Nast / Engineering Manager, Brand Experience
+----
+November 2017 - Present / Austin, TX
+
+Building bespoke products and experiences for GQ, The New Yorker, Vanity Fair, Vogue, and Wired. Managing a distributed team with engineers in Austin and New York
+
+Condé Nast / Lead Engineer, Partnerships Innovation
 -----
-July 2016 - Present / Austin, TX
+July 2016 - November 2017 / Austin, TX
 
 Lead Engineer for Partnerships team at the company's digital innovation center in east
 Austin. The team leverages emerging technology to benefit internationally renowned
