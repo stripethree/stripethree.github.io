@@ -1,14 +1,11 @@
 # Experience
-
-Condé Nast / Engineering Manager, Brand Experience
-----
-November 2017 - Present / Austin, TX
+### Condé Nast / Engineering Manager, Brand Experience
+**November 2017 - Present / Austin, TX**
 
 Building bespoke products and experiences for GQ, The New Yorker, Vanity Fair, Vogue, and Wired. Managing a distributed team with engineers in Austin and New York
 
-Condé Nast / Lead Engineer, Partnerships Innovation
------
-July 2016 - November 2017 / Austin, TX
+### Condé Nast / Lead Engineer, Partnerships Innovation
+**July 2016 - November 2017 / Austin, TX**
 
 Lead Engineer for Partnerships team at the company's digital innovation center in east
 Austin. The team leverages emerging technology to benefit internationally renowned
@@ -16,7 +13,8 @@ Condé Nast brands such as Vogue, The New Yorker, Allure, Epicurious and Teen Vo
 So far in 2017 the team built and deployed conversational applications on Facebook
 Messenger, Twitter, Slack, Google Home & Alexa as well as open-sourcing a Messenger
 SDK.
-Projects
+
+_Projects_
 
 * Epicurious Smart Kitchen Timer on Alexa, the company’s first skill on the Alexa
 voice platform.
@@ -24,16 +22,15 @@ voice platform.
 Google Home. This project allowed Home users to access exclusive audio
 content about feature articles in The September Issue with the Vogue Action
 on Google Home
-* Hopscotch, a Slack bot which uses Condé Nast’s internal recommendations API
+* Hopscotch, a Slack bot which uses Condé Nasts internal recommendations API
 and third party data on social media trending topics to recommend posts for
 brands to cross-share. This project won the Condé Nast 2017 Hackathon
-* Condé Nast Haikus, a Slack and Twitter bot which finds haikus in CMS content,
-provides a mechanism for Slack users to vote on found haikus, and posts
-popular entries to @condenasthaikus on Twitter
+* Condé Nast Haikus, a Slack application which posts popular haikus found in CMS contest to Twitter ([@condenasthaikus])
 * Quizzes on Teen Vogue, a Facebook Messenger bot to engage users with choose
 your own adventure style quizzes. Also repurposed with Epicurious
-* Launch-vehicle-fbm, an OSS Node JS Messenger SDK
-Additional Contributions
+* [`launch-vehicle-fbm`], an open source Node JS development kit for Facebook Messenger
+
+_Additional Contributions_
 * Member of Blog Working Group which manages the Condé Nast
 Technology Blog. Wrote multiple articles which were cross posted to Chatbots
 Magazine.
@@ -43,9 +40,11 @@ conversational space
 * Speaker and sIte liaison for Talkabot, a chatbot meetup in Austin hosted in
 Condé Nast’s digital innovation center
 
-TabbedOut / Director of Engineering
------
-October 2014 - July 2016 / Austin, TX
+[@condenasthaikus]: https://twitter.com/condenasthaikus
+[`launch-vehicle-fbm`]: https://github.com/CondeNast/launch-vehicle-fbm
+
+### TabbedOut / Director of Engineering
+**October 2014 - July 2016 / Austin, TX**
 
 * Product Owner/Manager for development scrum team producing Point of Sale (POS) integrations and payment services and operations scrum team providing monitoring solutions and continuous build & deploy pipelines
 * Delivered updated payments & POS infrastructure designed for asynchronous event processing and scalability
@@ -57,33 +56,28 @@ October 2014 - July 2016 / Austin, TX
 * Primary technical POC for third party relationships including all POS, development partnerships & financial partnerships
 
 
-TabbedOut / Software Engineer
------
-December 2013 - October 2014 | Austin, TX
+### TabbedOut / Software Engineer
+**December 2013 - October 2014 | Austin, TX**
 
 * Scala/Play REST API serving JSON data to React/Coffeescript front end for dynamic classification of line item data to canonical SKUs
 * .NET POS integration modifications to NCR Aloha and Dinerware, including custom payment processor/tender type plugin for third party payments
 * Designed and developed .NET solution for merchant registration on the Dinerware POS (plugin architecture)
 
-Leidos (formerly SAIC)/ Software Design Engineer
------
-September 2008 - November 2013 | Tucson, AZ
+### Leidos (formerly SAIC)/ Software Design Engineer
+**September 2008 - November 2013 | Tucson, AZ**
 
-Booz Allen Hamilton / (Multiple Titles)
------
-June 2003 - August 2008 | Linthicum, MD & Sierra VIsta, AZ
+### Booz Allen Hamilton / (Multiple Titles)
+*** June 2003 - August 2008 | Linthicum, MD & Sierra Vista, AZ ***
 
 # Education
 
-The Johns Hopkins University / MS, Computer Science
------
+#### The Johns Hopkins University / MS, Computer Science
 August 2004 - May 2007 | Baltimore, MD
 
-University of Maryland / BS, Computer Science
------
+#### University of Maryland / BS, Computer Science
 September 2000 - August 2004, College Park, MD
 
 # Patents
 
-* [Method of secure file transfer, US8069349B1](https://patents.google.com/patent/US8069349B1/en)
-* [Method of secure file transfer, US7930538B1](https://patents.google.com/patent/US7930538B1/en)
+* [Method of secure file transfer, (US8069349B1)](https://patents.google.com/patent/US8069349B1/en)
+* [Method of secure file transfer, (US7930538B1)](https://patents.google.com/patent/US7930538B1/en)
