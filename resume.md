@@ -67,7 +67,7 @@ Condé Nast’s digital innovation center
 **September 2008 - November 2013 | Tucson, AZ**
 
 ### Booz Allen Hamilton / (Multiple Titles)
-*** June 2003 - August 2008 | Linthicum, MD & Sierra Vista, AZ ***
+**June 2003 - August 2008 | Linthicum, MD & Sierra Vista, AZ**
 
 # Education
 
