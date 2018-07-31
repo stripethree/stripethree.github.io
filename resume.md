@@ -72,11 +72,11 @@ Condé Nast’s digital innovation center
 
 # Education
 
-**The Johns Hopkins University / MS, Computer Science**
+**The Johns Hopkins University / MS, Computer Science**  
 August 2004 - May 2007 | Baltimore, MD
 
-**University of Maryland / BS, Computer Science**
-September 2000 - August 2004, College Park, MD
+**University of Maryland / BS, Computer Science**  
+September 2000 - August 2004, College Park | MD
 
 # Patents
 
