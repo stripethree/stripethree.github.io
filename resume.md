@@ -1,13 +1,17 @@
-## Jeff Israel / Austin, TX
+### Jeff Israel / Austin, TX
 
-# Experience
-### Condé Nast / Engineering Manager, Brand Experience
-**November 2017 - Present / Austin, TX**
+## Experience
+
+#### You Earned It / Senior Engineering Manager  
+_August 2018 - Present / Austin, TX_
+
+#### Condé Nast / Engineering Manager, Brand Experience
+_November 2017 - August 2018 / Austin, TX_
 
 Building bespoke products and experiences for GQ, The New Yorker, Vanity Fair, Vogue, and Wired. Managing a distributed team with engineers in Austin and New York
 
-### Condé Nast / Lead Engineer, Partnerships Innovation
-**July 2016 - November 2017 / Austin, TX**
+#### Condé Nast / Lead Engineer, Partnerships Innovation
+_July 2016 - November 2017 / Austin, TX_
 
 Lead Engineer for Partnerships team at the company's digital innovation center in east
 Austin. The team leverages emerging technology to benefit internationally renowned
@@ -45,8 +49,8 @@ Condé Nast’s digital innovation center
 [@condenasthaikus]: https://twitter.com/condenasthaikus
 [`launch-vehicle-fbm`]: https://github.com/CondeNast/launch-vehicle-fbm
 
-### TabbedOut / Director of Engineering
-**October 2014 - July 2016 / Austin, TX**
+#### TabbedOut / Director of Engineering
+_October 2014 - July 2016 / Austin, TX_
 
 * Product Owner/Manager for development scrum team producing Point of Sale (POS) integrations and payment services and operations scrum team providing monitoring solutions and continuous build & deploy pipelines
 * Delivered updated payments & POS infrastructure designed for asynchronous event processing and scalability
@@ -57,20 +61,20 @@ Condé Nast’s digital innovation center
 * 10-20 direct reports across Development and QA; hiring manager for development roles
 * Primary technical POC for third party relationships including all POS, development partnerships & financial partnerships
 
-### TabbedOut / Software Engineer
-**December 2013 - October 2014 | Austin, TX**
+#### TabbedOut / Software Engineer
+_December 2013 - October 2014 | Austin, TX_
 
 * Scala/Play REST API serving JSON data to React/Coffeescript front end for dynamic classification of line item data to canonical SKUs
 * .NET POS integration modifications to NCR Aloha and Dinerware, including custom payment processor/tender type plugin for third party payments
 * Designed and developed .NET solution for merchant registration on the Dinerware POS (plugin architecture)
 
-### Leidos (formerly SAIC)/ Software Design Engineer
-**September 2008 - November 2013 | Tucson, AZ**
+#### Leidos (formerly SAIC)/ Software Design Engineer
+_September 2008 - November 2013 | Tucson, AZ_
 
-### Booz Allen Hamilton / (Multiple Titles)
-**June 2003 - August 2008 | Linthicum, MD & Sierra Vista, AZ**
+#### Booz Allen Hamilton / (Multiple Titles)
+_June 2003 - August 2008 | Linthicum, MD & Sierra Vista, AZ_
 
-# Education
+## Education
 
 **The Johns Hopkins University / MS, Computer Science**  
 August 2004 - May 2007 | Baltimore, MD
@@ -78,7 +82,7 @@ August 2004 - May 2007 | Baltimore, MD
 **University of Maryland / BS, Computer Science**  
 September 2000 - August 2004 | College Park, MD
 
-# Patents
+## Patents
 
 * [Method of secure file transfer, (US8069349B1)](https://patents.google.com/patent/US8069349B1/en)
 * [Method of secure file transfer, (US7930538B1)](https://patents.google.com/patent/US7930538B1/en)
