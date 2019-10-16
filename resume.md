@@ -3,7 +3,16 @@
 ## Experience
 
 #### You Earned It / Senior Engineering Manager  
-_August 2018 - Present / Austin, TX_
+_April 2019 - Present / Austin, TX_
+
+Kazoo is the combined, re-branded company resulting from YouEarnedIt's acquisition of Chicago-based High Ground.
+
+Guiding feature growth in our Rewards &amp; Recognition platform, the evolution of our unified Mobile experience, and the emergence of our new data reporting product known as Insights.
+
+#### You Earned It / Senior Engineering Manager  
+_August 2018 - April 2019 / Austin, TX_
+
+Re-establishing engineering process and growing the team building our Rewards &amp; Recognition product. Overseeing the launch of an all new Mobile experience on both Android and iOS platforms.
 
 #### Condé Nast / Engineering Manager, Brand Experience
 _November 2017 - August 2018 / Austin, TX_
