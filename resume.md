@@ -2,7 +2,7 @@
 
 ## Experience
 
-#### You Earned It / Senior Engineering Manager  
+#### Kazoo / Director of Engineering  
 _April 2019 - Present / Austin, TX_
 
 Kazoo is the combined, re-branded company resulting from YouEarnedIt's acquisition of Chicago-based High Ground.
