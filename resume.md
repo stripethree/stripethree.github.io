@@ -95,7 +95,7 @@ _Certified Scrum Product Owner (CSPO), Scrum Alliance_
 [Issued December 2019](http://bcert.me/sqvpyqper), Expires February 2022
 
 _Certified Scrum Master (CSM), Scrum Alliance_  
-[Issued February 2022](http://bcert.me/sukirsbss), Expires February 2022
+[Issued February 2020](http://bcert.me/sukirsbss), Expires February 2022
 
 # Patents
 
