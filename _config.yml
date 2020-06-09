@@ -5,6 +5,3 @@ github_username: stripethree
 
 markdown: kramdown
 theme: jekyll-theme-minimal
-
-sass:
-  sass_dir: assets/css
