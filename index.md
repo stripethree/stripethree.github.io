@@ -3,12 +3,6 @@ layout: default
 title: Home
 ---
 
-<style type="text/css">
-  main {
-    margin-top: 25px;
-  }
-</style>
-
 <main role="main" class="container">
   <div class="row">
     <div class="col col-md-4 col-xs-2">
