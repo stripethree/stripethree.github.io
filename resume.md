@@ -17,7 +17,7 @@ Kazoo is the combined, re-branded company resulting from YouEarnedIt's acquisiti
 - Overseeing the launch of an all new Mobile experience on Android and iOS
 - Maintaining a legacy Mobile app &amp; and white-label project launch
 - Standing up a new team for a dedicated reporting platform (Insights)
-- Re-establishing engineering process &amp; for our Rewards &amp; Recognition teams
+- Re-establishing engineering process for our Rewards &amp; Recognition teams
 - DevOps projects to reduce cost &amp; streamline management
 
 ### Condé Nast / July 2016 - August 2018
