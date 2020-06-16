@@ -19,11 +19,11 @@ jobs:
           bundle exec jekyll build
       - name: deploy
           run: |
-          aws s3 cp \
-            --recursive \
-            --region us-east-2 \
-            _site \
-            s3://stripethree.github.io/
+            aws s3 cp \
+              --recursive \
+              --region us-east-2 \
+              _site \
+              s3://stripethree.github.io/
         env:
           AWS_ACCESS_KEY_ID: ${{ secrets.AWS_ACCESS_KEY_ID }}
           AWS_SECRET_ACCESS_KEY: ${{ secrets.AWS_SECRET_ACCESS_KEY }}
