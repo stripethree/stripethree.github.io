@@ -28,7 +28,7 @@ jobs:
         run: |
           aws s3 cp \
             --recursive \
-            --region {{ secrets.AWS_REGION }} \
+            --region ${{ secrets.AWS_REGION }} \
             _site \
             s3://${{ secrets.AWS_S3_BUCKET_NAME }}/${GITHUB_REF:11}/
         env:
