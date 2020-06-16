@@ -9,14 +9,19 @@ jobs:
       - uses: actions/checkout@v2
       - uses: actions/setup-ruby@v1
         with:
-          ruby-version: '2.6.x'
+          ruby-version: "2.6.x"
       - name: build
         env:
-          BUNDLER_VERSION: '2.4.1'
+          BUNDLER_VERSION: "2.4.1"
         run: |
           gem install bundler
           bundle install
           bundle exec jekyll build
+          bundle exec htmlproofer ./_site \
+            --allow-hash-href \
+            --check-favicon  \
+            --check-html \
+            --disable-external
       - name: deploy
         run: |
           aws s3 cp \
