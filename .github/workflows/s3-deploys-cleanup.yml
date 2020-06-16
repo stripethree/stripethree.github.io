@@ -3,14 +3,17 @@ on: [delete]
 
 jobs:
   build:
-    - name: Clean up deployed branches in S3
-      run: |
-        aws s3 rm \
-          --recursive \
-          --region ${{ secrets.AWS_REGION }} \
-          s3://${{ secrets.AWS_S3_BUCKET_NAME }}/${{ github.event.ref }}
-        # `github.event` is the delete event that triggered the job
-        # and `github.event.ref` is the branch or tag name that was deleted
-      env:
-        AWS_ACCESS_KEY_ID: ${{ secrets.AWS_ACCESS_KEY_ID }}
-        AWS_SECRET_ACCESS_KEY: ${{ secrets.AWS_SECRET_ACCESS_KEY }}
+    name: Clean up deployed branches in S3
+    runs-on: ubuntu-latest
+    steps:
+      - name: Clean up deployed branches in S3
+        run: |
+          aws s3 rm \
+            --recursive \
+            --region ${{ secrets.AWS_REGION }} \
+            s3://${{ secrets.AWS_S3_BUCKET_NAME }}/${{ github.event.ref }}
+          # `github.event` is the delete event that triggered the job
+          # and `github.event.ref` is the branch or tag name that was deleted
+        env:
+          AWS_ACCESS_KEY_ID: ${{ secrets.AWS_ACCESS_KEY_ID }}
+          AWS_SECRET_ACCESS_KEY: ${{ secrets.AWS_SECRET_ACCESS_KEY }}
