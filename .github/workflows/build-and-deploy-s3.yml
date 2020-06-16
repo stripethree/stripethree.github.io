@@ -28,9 +28,9 @@ jobs:
         run: |
           aws s3 cp \
             --recursive \
-            --region us-east-2 \
+            --region {{ secrets.AWS_REGION }} \
             _site \
-            s3://stripethree.github.io/${GITHUB_REF:11}/
+            s3://${{ secrets.AWS_S3_BUCKET_NAME }}/${GITHUB_REF:11}/
         env:
           AWS_ACCESS_KEY_ID: ${{ secrets.AWS_ACCESS_KEY_ID }}
           AWS_SECRET_ACCESS_KEY: ${{ secrets.AWS_SECRET_ACCESS_KEY }}
