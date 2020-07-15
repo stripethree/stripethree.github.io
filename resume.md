@@ -5,9 +5,9 @@ title: Résumé
 
 # Experience
 
-### Kazoo / August 2018 - Present
+### Kazoo / August 2018 - July 2020
 
-_Director of Engineering_ / _April 2019 - Present_  
+_Director of Engineering_ / _April 2019 - July 2020_
 _Senior Engineering Manager_ / _August 2018 - April 2019_
 
 Kazoo is the combined, re-branded company resulting from YouEarnedIt's acquisition of Chicago-based HighGround.
@@ -22,7 +22,7 @@ Kazoo is the combined, re-branded company resulting from YouEarnedIt's acquisiti
 
 ### Condé Nast / July 2016 - August 2018
 
-_Engineering Manager, Brand Experience_ / _November 2017 - August 2018_  
+_Engineering Manager, Brand Experience_ / _November 2017 - August 2018_
 _Lead Engineer, Partnerships Innovation_ / _July 2016 - November 2017_ / _Austin, TX_
 
 As Engineering Manager for _Brand Experience_, built bespoke products and experiences for GQ, The New Yorker, Vanity Fair, Vogue, and Wired. Managed a distributed team with engineers in Austin and New York.
@@ -53,7 +53,7 @@ _Additional Contributions_
 
 ### TabbedOut / December 2013 - July 2016
 
-_Director of Engineering_ / _October 2014 - July 2016_  
+_Director of Engineering_ / _October 2014 - July 2016_
 _Software Engineer_ / _December 2013 - October 2014_
 
 As _Director of Engineering_
@@ -81,21 +81,21 @@ _Multiple Titles_
 
 # Education
 
-_The Johns Hopkins University / MS, Computer Science_  
+_The Johns Hopkins University / MS, Computer Science_
 August 2004 - May 2007 | Baltimore, MD
 
-_University of Maryland / BS, Computer Science_  
+_University of Maryland / BS, Computer Science_
 September 2000 - August 2004 | College Park, MD
 
 # Licenses &amp; Certifications
 
-_Certified Scrum Product Owner (CSPO), Scrum Alliance_  
+_Certified Scrum Product Owner (CSPO), Scrum Alliance_
 [Issued December 2019](http://bcert.me/sqvpyqper), Expires February 2022
 
-_Certified Scrum Master (CSM), Scrum Alliance_  
+_Certified Scrum Master (CSM), Scrum Alliance_
 [Issued February 2020](http://bcert.me/sukirsbss), Expires February 2022
 
 # Patents
 
-[_Method of secure file transfer_, (US8069349B1)](https://patents.google.com/patent/US8069349B1/en)  
+[_Method of secure file transfer_, (US8069349B1)](https://patents.google.com/patent/US8069349B1/en)
 [_Method of secure file transfer_, (US7930538B1)](https://patents.google.com/patent/US7930538B1/en)
