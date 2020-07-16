@@ -7,8 +7,8 @@ title: Résumé
 
 ### Kazoo / August 2018 - July 2020
 
-_Director of Engineering_ / _April 2019 - July 2020_
-_Senior Engineering Manager_ / _August 2018 - April 2019_
+_Director of Engineering, April 2019 - July 2020_;
+_Senior Engineering Manager, August 2018 - April 2019_
 
 Kazoo is the combined, re-branded company resulting from YouEarnedIt's acquisition of Chicago-based HighGround.
 
@@ -22,8 +22,8 @@ Kazoo is the combined, re-branded company resulting from YouEarnedIt's acquisiti
 
 ### Condé Nast / July 2016 - August 2018
 
-_Engineering Manager, Brand Experience_ / _November 2017 - August 2018_
-_Lead Engineer, Partnerships Innovation_ / _July 2016 - November 2017_ / _Austin, TX_
+_Engineering Manager, Brand Experience November 2017 - August 2018_;
+_Lead Engineer, Partnerships Innovation, July 2016 - November 2017_
 
 As Engineering Manager for _Brand Experience_, built bespoke products and experiences for GQ, The New Yorker, Vanity Fair, Vogue, and Wired. Managed a distributed team with engineers in Austin and New York.
 
@@ -53,8 +53,8 @@ _Additional Contributions_
 
 ### TabbedOut / December 2013 - July 2016
 
-_Director of Engineering_ / _October 2014 - July 2016_
-_Software Engineer_ / _December 2013 - October 2014_
+_Director of Engineering, October 2014 - July 2016_;
+_Software Engineer, December 2013 - October 2014_
 
 As _Director of Engineering_
 
