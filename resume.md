@@ -5,12 +5,24 @@ title: Résumé
 
 # Experience
 
-### Kazoo / August 2018 - July 2020
+### [Bestow Life Insurance](https://bestow.com/) / August 2020 - Present
+
+_Senior Engineering Manager_
+
+Building products and software that make life insurance accessible to millions of families. From our direct-to-consumer products to our industry-first APIs for partners, we are reshaping the insurance industry.
+
+### [REPCARDz](http://repcardz.com/) / May 2020 - Present
+
+_Director of Technology_
+
+Part-time technology advisor to Austin-based healthcare startup. REPCARDz aims to help healthcare providers keep pace with ever-changing reps, roles, products, and companies through a real-time, easily searchable, verified database that matches every product to the right representative for each facility.
+
+### [Kazoo](https://www.kazoohr.com/) / August 2018 - July 2020
 
 _Director of Engineering, April 2019 - July 2020_;
 _Senior Engineering Manager, August 2018 - April 2019_
 
-Kazoo is the combined, re-branded company resulting from YouEarnedIt's acquisition of Chicago-based HighGround.
+Kazoo is the re-branded company resulting from YouEarnedIt's acquisition of Chicago-based HighGround. Developing a comprehensive employee experience platform including rewards &amp; recognition, performance management, insightful data reporting, and an industry leading mobile experience.
 
 - Managing up to 13 direct reports including up to 6 full-time remote engineers
 - Hiring manager for multiple teams across web and mobile
@@ -87,7 +99,7 @@ August 2004 - May 2007 | Baltimore, MD
 _University of Maryland / BS, Computer Science_
 September 2000 - August 2004 | College Park, MD
 
-# Licenses &amp; Certifications
+# Certifications
 
 _Certified Scrum Product Owner (CSPO), Scrum Alliance_
 [Issued December 2019](http://bcert.me/sqvpyqper), Expires February 2022
