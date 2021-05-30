@@ -9,7 +9,13 @@ title: Résumé
 
 _Senior Engineering Manager_
 
-Building products and software that make life insurance accessible to millions of families. From our direct-to-consumer products to our industry-first APIs for partners, we are reshaping the insurance industry.
+Mentoring and growing teams across the Bestow engineering organization, 10 direct reports from SE1 to new Engineering Managers, plus near-shore and off-shore integrated teams.
+
+_Protect_ - We've [partnered with Lemonade](https://www.businessinsider.com/lemonade-added-bestow-term-life-insurance-coverage-2021-2) for a robust API integration powering their term-life product with our platform. The Protect team supports this effort and others like it!
+
+_Enrollment_ - A blend of Bestow, near-shore, and off-shore talent, this is the platform team that builds and maintains our Python/Flask API backing our direct to consumer term-life product. This team covers the enrollment application and underwriting and is building some slick new functional TypeScript support for multiple business lines.
+
+_Foundations_ - Cross-cutting services and SaaS integrations like authentication and notifications that are leveraged by all of Bestow's business lines. Microservices using Golang, gRPC, and CQRS that have to scale rapidly as the business grows.
 
 ### [REPCARDz](http://repcardz.com/) / May 2020 - Present
 
