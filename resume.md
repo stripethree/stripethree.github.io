@@ -5,17 +5,20 @@ title: Résumé
 
 # Experience
 
-### [Bestow Life Insurance](https://bestow.com/) / August 2020 - Present
+### [Bestow Life Insurance](https://bestow.com/) / August 2020 - May 2022
 
-_Senior Engineering Manager_
-
+_Director of Engineering, July 2021 - Mqy 2022
+_Senior Engineering Manager, August 2020 - July 2021_
+◊
 Mentoring and growing teams across the Bestow engineering organization, 10 direct reports from SE1 to new Engineering Managers, plus near-shore and off-shore integrated teams.
 
 _Protect_ - We've [partnered with Lemonade](https://www.businessinsider.com/lemonade-added-bestow-term-life-insurance-coverage-2021-2) for a robust API integration powering their term-life product with our platform. The Protect team supports this effort and others like it!
 
-_Enrollment_ - A blend of Bestow, near-shore, and off-shore talent, this is the platform team that builds and maintains our Python/Flask API backing our direct to consumer term-life product. This team covers the enrollment application and underwriting and is building some slick new functional TypeScript support for multiple business lines.
+_Enrollment_ - A blend of Bestow, near-shore, and off-shore talent, this is the platform team that builds and maintains our Python/Flask API backing our direct to consumer term-life product. This team covers the enrollment application.
 
-_Foundations_ - Cross-cutting services and SaaS integrations like authentication and notifications that are leveraged by all of Bestow's business lines. Microservices using Golang, gRPC, and CQRS that have to scale rapidly as the business grows.
+In addition to contributions to the Lemonade partnership in early 2021, this team contributed to launching Bestow's partnerships with [Equitable](https://equitable.com/) and [Zander](https://www.zanderins.com/) in 2022.
+
+_Foundations_ - Cross-cutting services and SaaS integrations like authentication and notifications that are leveraged by all of Bestow's business lines. Microservices using Golang, gRPC, and CQRS that have to scale rapidly as the business grows. Rebuilt this team and transitioned it to another Director.
 
 ### [REPCARDz](http://repcardz.com/) / May 2020 - Present
 
@@ -108,10 +111,10 @@ September 2000 - August 2004 | College Park, MD
 # Certifications
 
 _Certified Scrum Product Owner (CSPO), Scrum Alliance_
-[Issued December 2019](http://bcert.me/sqvpyqper), Expires February 2022
+[Issued December 2019](http://bcert.me/sqvpyqper), Expires February 2024
 
 _Certified Scrum Master (CSM), Scrum Alliance_
-[Issued February 2020](http://bcert.me/sukirsbss), Expires February 2022
+[Issued February 2020](http://bcert.me/sukirsbss), Expires February 2024
 
 # Patents
 
