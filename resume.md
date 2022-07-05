@@ -7,9 +7,9 @@ title: Résumé
 
 ### [Bestow Life Insurance](https://bestow.com/) / August 2020 - May 2022
 
-_Director of Engineering, July 2021 - Mqy 2022
+_Director of Engineering, July 2021 - Mqy 2022_  
 _Senior Engineering Manager, August 2020 - July 2021_
-◊
+
 Mentoring and growing teams across the Bestow engineering organization, 10 direct reports from SE1 to new Engineering Managers, plus near-shore and off-shore integrated teams.
 
 _Protect_ - We've [partnered with Lemonade](https://www.businessinsider.com/lemonade-added-bestow-term-life-insurance-coverage-2021-2) for a robust API integration powering their term-life product with our platform. The Protect team supports this effort and others like it!
@@ -28,7 +28,7 @@ Part-time technology advisor to Austin-based healthcare startup. REPCARDz aims t
 
 ### [Kazoo](https://www.kazoohr.com/) / August 2018 - July 2020
 
-_Director of Engineering, April 2019 - July 2020_;
+_Director of Engineering, April 2019 - July 2020_   
 _Senior Engineering Manager, August 2018 - April 2019_
 
 Kazoo is the re-branded company resulting from YouEarnedIt's acquisition of Chicago-based HighGround. Developing a comprehensive employee experience platform including rewards &amp; recognition, performance management, insightful data reporting, and an industry leading mobile experience.
@@ -43,7 +43,7 @@ Kazoo is the re-branded company resulting from YouEarnedIt's acquisition of Chic
 
 ### Condé Nast / July 2016 - August 2018
 
-_Engineering Manager, Brand Experience November 2017 - August 2018_;
+_Engineering Manager, Brand Experience November 2017 - August 2018_   
 _Lead Engineer, Partnerships Innovation, July 2016 - November 2017_
 
 As Engineering Manager for _Brand Experience_, built bespoke products and experiences for GQ, The New Yorker, Vanity Fair, Vogue, and Wired. Managed a distributed team with engineers in Austin and New York.
@@ -74,7 +74,7 @@ _Additional Contributions_
 
 ### TabbedOut / December 2013 - July 2016
 
-_Director of Engineering, October 2014 - July 2016_;
+_Director of Engineering, October 2014 - July 2016_   
 _Software Engineer, December 2013 - October 2014_
 
 As _Director of Engineering_
@@ -118,5 +118,5 @@ _Certified Scrum Master (CSM), Scrum Alliance_
 
 # Patents
 
-[_Method of secure file transfer_, (US8069349B1)](https://patents.google.com/patent/US8069349B1/en)
+[_Method of secure file transfer_, (US8069349B1)](https://patents.google.com/patent/US8069349B1/en)    
 [_Method of secure file transfer_, (US7930538B1)](https://patents.google.com/patent/US7930538B1/en)
